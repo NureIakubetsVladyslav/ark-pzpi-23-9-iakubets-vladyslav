@@ -9,7 +9,7 @@
 Звіт
 до практичного завдання №1
 з дисципліни «Аналіз та рефакторинг коду»
-на тему: «Правила оформлення програмного коду на Kotlin»
+на тему: «Правила оформлення програмного коду мовою Kotlin за Kotlin Style Guide»
 
 
 
@@ -344,5 +344,6 @@
 ДОДАТОК В
 
 Посилання на програмний код: https://github.com/NureIakubetsVladyslav/ark-pzpi-23-9-iakubets-vladyslav/blob/main/Pract1/pzpi-23-9-iakubets-vladyslav-pract1/code-examples.kt
+
 
 
